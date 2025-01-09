@@ -111,14 +111,14 @@ The analysed data is visualised in Tableau, offering:
 ## Takeaways
 
 ### Strategic Positioning - High-Value Zones
-
-- **South Kensington**: Consistent order flow, anchored by reliable partners such as Wingstop
+Based on my personal experiance and findings from the dashboard:
+- **South Kensington**: Provided a consistent order flow, anchored by reliable partners such as Wingstop/Nandos
 - **Notting Hill**: High establishment density supporting continuous operations
 - **Chelsea**: Strong base for bidirectional order flows between Notting Hill/Paddington/Victoria
 
 ### Strategic Shift Pattern
-
-- I primarily work morning shifts on weekends 07:00-till my battery dies during/after the lunch rush. Starting at 7am the app regularly signalled that its not busy, but I got consistent orders. Visualising stores operating hours I saw there were a lot more stores open than I thought!
+- I primarily work morning shifts on weekends 07:00-till my battery dies during/after the lunch rush.
+- Starting at 7am the Riders app regularly signalled that its not busy, but I got consistent orders. Visualising stores operating hours I saw there were a lot more stores open than I thought!
 - From personal experience there is not a lot of traffic and riders on the road at that time, which has the possibility to lead to a busy morning. However this always isn't the case, of course there are other factors that affect the demand.
 
 ## Future Improvements
