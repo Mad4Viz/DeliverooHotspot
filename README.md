@@ -111,9 +111,9 @@ The analysed data is visualised in Tableau, offering:
 
 ### Strategic Positioning - High-Value Zones
 Based on my personal experiance and findings from the dashboard:
-- **South Kensington**: Provided a consistent order flow, anchored by reliable partners such as Wingstop/Nandos
-- **Notting Hill**: High establishment density supporting continuous operations
-- **Chelsea**: Strong base for bidirectional order flows between Notting Hill/Paddington/Victoria
+- **South Kensington**: Provided a consistent order flow, anchored by reliable partners such as Wingstop/Nandos which is highlighted on the density map with a higher number of stores in this location
+- **Notting Hill**: High store density supporting continuous operations
+- **Chelsea**: Strong base for bidirectional order flows between Notting Hill/Paddington/Victoria - I was constanlty going between these areas when delivering around London.
 
 ### Strategic Shift Pattern
 - I primarily work morning shifts on weekends 07:00-till my battery dies during/after the lunch rush.
