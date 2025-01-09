@@ -1,5 +1,4 @@
-# DeliverooHotspot
-Deliveroo Store Density Analysis in Central London
+# Deliveroo Store Density Analysis in Central London
 
 ## Disclaimer
 
