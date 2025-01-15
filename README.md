@@ -1,9 +1,5 @@
 # Deliveroo Store Density Analysis in Central London
 
-## Disclaimer
-
-I am not an expert Python developer - I used Claude AI to help write this script. With my limited knowledge, there may be more efficient ways to accomplish certain tasks. This project showcases my learning journey with API and ETL process with Python and visualising the data in Tableau.
-
 ## Project Background
 
 Over the past few years, I've worked with Deliveroo on and off during the spring and summer months. Last year, I exclusively worked in Chelsea and Westminster. I noticed that while the Deliveroo rider app provides real-time hotspot zones, I wanted to get a overview about store density and operating hours. This project aims to enhance rider efficiency by analysing store locations and operating patterns in Westminster and Chelsea.
